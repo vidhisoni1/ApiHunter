@@ -1,0 +1,254 @@
+{
+  "users": [
+    {
+      "id": "b8b5",
+      "name": "kevin",
+      "email": "kevin@gmail.com",
+      "password": "123",
+      "mobile": "15121"
+    },
+    {
+      "id": "dc35",
+      "name": "kevin",
+      "email": "kevin@gmail.com",
+      "password": "123",
+      "mobile": "15121"
+    },
+    {
+      "id": "05a7",
+      "name": "kevin",
+      "email": "kevin@gmail.com",
+      "password": "123",
+      "mobile": "15121"
+    },
+    {
+      "id": "1e97",
+      "name": "vidhi ",
+      "email": "vidhi@gmail.com",
+      "password": "123456",
+      "mobile": "19875692340",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 3
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "id": "8bf5",
+      "name": "khushi ",
+      "email": "khushi@gmail.com",
+      "password": "123456",
+      "mobile": "489520",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 2
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    }
+  ],
+  "current-user": [
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "4fe1",
+      "name": "sakshi ",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "mobile": "321654879",
+      "cart": [
+        {
+          "title": "kai poan",
+          "price": "1",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "046d",
+          "qty": 1
+        },
+        {
+          "title": "vidhi",
+          "price": "2",
+          "img": "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg",
+          "id": "4423",
+          "qty": 1
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "img": "https://www.thewalkdeal.com/cdn/shop/products/Never-Give-Up-TheFight.jpg?v=1640673347",
+      "title": "GANIER",
+      "detail": "start changing your time with ganier watch ",
+      "price": "$60"
+    },
+    {
+      "img": "https://www.thewalkdeal.com/cdn/shop/products/Belive-Black.jpg?v=1640675713",
+      "title": "SHOES",
+      "detail": "start getting your leg comfortable wi ",
+      "price": "$60"
+    },
+    {
+      "img": "https://ih1.redbubble.net/image.4599983934.0309/ssrco,slim_fit_t_shirt,mens,101010:01c5ca27c6,front,square_product,600x600.jpg",
+      "title": "GANIER",
+      "detail": "start changing your time with ganier watch ",
+      "price": "$60"
+    }
+  ]
+}
